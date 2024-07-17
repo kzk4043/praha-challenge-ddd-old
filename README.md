@@ -1,2 +1,3 @@
 # 概要
-PrAha Challengeの設計課題の雛形に使用するレポジトリです
+
+PrAha Challenge の設計課題の[雛形](https://github.com/praha-inc/praha-challenge-template)をベースに特大課題をやっていくリポジトリ
